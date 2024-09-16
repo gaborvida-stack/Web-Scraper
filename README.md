@@ -12,7 +12,7 @@ This is a Python-based web scraping tool that uses Requests and BeautifulSoup fo
 ## Installation
   - Clone the repository or download the project files:
     ```
-    https://github.com/gaborvida-stack/Web-Scraper.git
+    git clone https://github.com/gaborvida-stack/Web-Scraper.git
     ```
     ```
     cd Web-Scraper
