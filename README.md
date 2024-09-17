@@ -44,7 +44,5 @@ This is a Python-based web scraping tool that uses `requests` and `bs4` for fetc
   2. More information...
   ```
 ## Code Overview
-  - The script is organized into the following classes:
-    - `WebScraper`: Handles making requests to the URL and obtaining the HTML content.
-    - `HTMLParser`: Parses the HTML content using BeautifulSoup and searches for specific tags, classes, IDs, or attributes.
-    - `UserInterface`: Manages user input and output for a smooth interaction.
+  - Handles making requests to the URL and obtaining the HTML content.
+  - Parses the HTML content using BeautifulSoup and searches for specific tags, classes, IDs, or attributes.
