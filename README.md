@@ -6,8 +6,6 @@ This is a Python-based web scraping tool that uses Requests and BeautifulSoup fo
   - Search for specific HTML tags
   - Filter search results by class, ID, or attributes
   - Output text content from the matched HTML elements
-  - Requirements
-  - Before running the script, ensure you have the following dependencies installed:
 
 ## Installation
   - Clone the repository or download the project files:
