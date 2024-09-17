@@ -1,11 +1,14 @@
 ## Web Scraper with Python (OOP-Based)
-This is a Python-based web scraping tool that uses Requests and BeautifulSoup for fetching and parsing HTML content from web pages. The scraper allows the user to search for specific HTML tags, and optionally filter by class, ID, or other attributes. The script has been refactored using Object-Oriented Programming (OOP) principles.
+This is a Python-based web scraping tool that uses Requests and BeautifulSoup for fetching and parsing HTML content from web pages. The scraper allows the user to search for specific HTML tags, and optionally filter by class, ID, or other attributes. The script has been refactored using `Object-Oriented Programming (OOP)` principles.
 
 ## Features
   - Fetch HTML content from a provided URL
   - Search for specific HTML tags
   - Filter search results by class, ID, or attributes
   - Output text content from the matched HTML elements
+
+## Requirements
+  - 
 
 ## Installation
   - Clone the repository or download the project files:
@@ -40,6 +43,6 @@ This is a Python-based web scraping tool that uses Requests and BeautifulSoup fo
   ```
 ## Code Overview
   - The script is organized into the following classes:
-    - WebScraper: Handles making requests to the URL and obtaining the HTML content.
-    - HTMLParser: Parses the HTML content using BeautifulSoup and searches for specific tags, classes, IDs, or attributes.
-    - UserInterface: Manages user input and output for a smooth interaction.
+    - `WebScraper`: Handles making requests to the URL and obtaining the HTML content.
+    - `HTMLParser`: Parses the HTML content using BeautifulSoup and searches for specific tags, classes, IDs, or attributes.
+    - `UserInterface`: Manages user input and output for a smooth interaction.
