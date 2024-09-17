@@ -8,7 +8,9 @@ This is a Python-based web scraping tool that uses Requests and BeautifulSoup fo
   - Output text content from the matched HTML elements
 
 ## Requirements
-  - 
+  - Python 3 (or higher)
+  - `requests`
+  - `bs4`
 
 ## Installation
   - Clone the repository or download the project files:
